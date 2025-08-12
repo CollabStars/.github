@@ -14,16 +14,19 @@
 
 ---
 
-#### 💡 Contributing to CollabStars
-##### CollabStars is an open project, and all contributions are welcome—from documentation and tutorials to ideas and new feature development. Want to help grow the community? Join: **[Discord](https://discord.gg/MpHQ9H8ECp)**
+### 💡 Contributing to CollabStars
+#### CollabStars is an open project, and all contributions are welcome—from documentation and tutorials to ideas and new feature development. Want to help grow the community? Join: **[Discord](https://discord.gg/MpHQ9H8ECp)**
 
-#### 🛡 Keeping the Community Safe
-##### Our organization follows a code of conduct to ensure a respectful and collaborative environment. Security issues or inappropriate behavior should be reported through official channels.
+### 🛡 Keeping the Community Safe
+#### Our organization follows a code of conduct to ensure a respectful and collaborative environment. Security issues or inappropriate behavior should be reported through official channels.
 
-#### 🤝 Collaborate and Grow
-##### Participate in projects, exchange knowledge, and increase your visibility on GitHub. Together, we strengthen our network and drive new ideas.
+### 🤝 Collaborate and Grow
+#### Participate in projects, exchange knowledge, and increase your visibility on GitHub. Together, we strengthen our network and drive new ideas.
 
-#### 🚀 Key Technologies Used
-##### This project is built with modern technologies and tools to ensure performance, scalability, and developer experience.
+### 📰 Documentation
+#### Documentation with everything related to the organization is at: **[Doc](https://github.com/Vyzer9/CollabStars)**
+
+### 🚀 Key Technologies Used
+#### This project is built with modern technologies and tools to ensure performance, scalability, and developer experience.
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongodb,docker,prisma,sass,github,discord)](https://skillicons.dev)
