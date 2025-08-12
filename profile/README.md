@@ -29,4 +29,4 @@
 ### 🚀 Key Technologies Used
 #### This project is built with modern technologies and tools to ensure performance, scalability, and developer experience.
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongodb,nextjs,docker,prisma,sass,github,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongodb,nextjs,docker,prisma,sass,bash,github,discord)](https://skillicons.dev)
