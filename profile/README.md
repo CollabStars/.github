@@ -1,21 +1,29 @@
-# ⭐ CollabStars Discord Community
+<h1 align="center">CollabStars Community ⭐</h1>
 
-![License](https://img.shields.io/github/license/Vyzer9/CollabStars?color=brightgreen)
-![Stars](https://img.shields.io/github/stars/Vyzer9/CollabStars?style=social)
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange)
-![Maintained](https://img.shields.io/badge/maintained-yes-green)
+<p align="center">
+ <img width="168" height="168" alt="image" src="https://github.com/user-attachments/assets/9ac2caa6-f106-42e2-a707-64ee79416906" />
+</p>
+
+<div align="center">
+  <p style="font-size: 10px; color: #ccc;">
+    Connecting developers and creators to build, learn, and grow — together.
+  </p>
+</div>
 
 
-Welcome to the official Discord community for [CollabStars](https://github.com/Vyzer9/CollabStars)!  
-This space is dedicated to developers who want to ethically collaborate, grow their GitHub presence, and support one another by sharing stars, follows, and feedback.
 
-Join us and become part of a friendly and respectful community focused on collaboration over competition!
+---
 
-# 📎 Link Discord
-👉 **[Discord](https://discord.gg/MpHQ9H8ECp)** 👈
+#### 💡 Contributing to CollabStars
+##### CollabStars is an open project, and all contributions are welcome—from documentation and tutorials to ideas and new feature development. Want to help grow the community? Join: **[Discord](https://discord.gg/MpHQ9H8ECp)**
 
-# 📜 Documentation
-The complete documentation is pinned to the Vyzer9 author repository
- Link -> [Doc](https://github.com/Vyzer9/CollabStars)
+#### 🛡 Keeping the Community Safe
+##### Our organization follows a code of conduct to ensure a respectful and collaborative environment. Security issues or inappropriate behavior should be reported through official channels.
 
-<img width="351" height="390" alt="image" src="https://github.com/user-attachments/assets/60c12ae8-1e10-47fc-a3f8-d735567939f6" />
+#### 🤝 Collaborate and Grow
+##### Participate in projects, exchange knowledge, and increase your visibility on GitHub. Together, we strengthen our network and drive new ideas.
+
+#### 🚀 Key Technologies Used
+##### This project is built with modern technologies and tools to ensure performance, scalability, and developer experience.
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongodb,docker,prisma,sass,github,discord)](https://skillicons.dev)
